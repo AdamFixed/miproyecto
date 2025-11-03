@@ -10,4 +10,4 @@ Tecnologías utilizadas
 
 Instalación
 📥 Clonar el repositorio: 
-git clone https://github.com/usuario/repositorio.git
+git clone [https://github.com/AdamFixed/miproyecto/tree/main]
